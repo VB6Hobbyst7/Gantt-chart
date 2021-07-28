@@ -1,2 +1,5 @@
 # Gantt-chart
-Excelで作ったガントチャート。
+Excelで作ったガントチャートです。  
+詳しくはこちら。  
+  
+https://www.ikachi.org/software/scheduler_r2.html
